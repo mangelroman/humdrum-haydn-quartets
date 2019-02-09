@@ -266,28 +266,28 @@
 .	.	.	16ddd
 8d	8a	.	16fff#
 .	.	.	16ddd
-8d	8a	[8ff# 8dd	16fff#
+8d	8a	[8ff# [8dd	16fff#
 .	.	.	16ddd
 =45	=45	=45	=45
-8d	8a	8ff# 8dd]	16ff#
+8d	8a	8ff#] 8dd]	16ff#
 .	.	.	16ddd
 8d	8a	4dd 4ff#	16fff#
 .	.	.	16ddd
 8d	8a	.	16fff#
 .	.	.	16ddd
-8d	8a	[8dd 8ff#	16fff#
+8d	8a	[8dd [8ff#	16fff#
 .	.	.	16ddd
 =46	=46	=46	=46
-8d	8a	8dd 8ff]	16ff
+8d	8a	8dd] 8ff]	16ff
 .	.	.	16ddd
 8d	8a	4ff 4dd	16fff
 .	.	.	16ddd
 8d	8a	.	16fff
 .	.	.	16ddd
-8d	8a	[8ff 8dd	16fff
+8d	8a	[8ff [8dd	16fff
 .	.	.	16ddd
 =47	=47	=47	=47
-8d	8a	8ff 8dd]	16ff
+8d	8a	8ff] 8dd]	16ff
 .	.	.	16ddd
 8d	8a	4ff 4dd	16fff
 .	.	.	16ddd
@@ -678,28 +678,28 @@
 .	.	.	16gg
 8G	8d	.	16bb
 .	.	.	16gg
-8G	8d	[8g 8b	16bb
+8G	8d	[8g [8b	16bb
 .	.	.	16gg
 =114	=114	=114	=114
-8G	8d	8g 8b]	16b
+8G	8d	8g] 8b]	16b
 .	.	.	16gg
 8G	8d	4g 4b	16bb
 .	.	.	16gg
 8G	8d	.	16bb
 .	.	.	16gg
-8G	8d	[8b 8g	16bb
+8G	8d	8b [8g	16bb
 .	.	.	16gg
 =115	=115	=115	=115
-8G	8d	8g 8b-]	16b-
+8G	8d	8b- 8g]	16b-
 .	.	.	16gg
 8G	8d	4b- 4g	16bb-
 .	.	.	16gg
 8G	8d	.	16bb-
 .	.	.	16gg
-8G	8d	[8b- 8g	16bb-
+8G	8d	[8b- [8g	16bb-
 .	.	.	16gg
 =116	=116	=116	=116
-8G	8d	8b- 8g]	16b-
+8G	8d	8b-] 8g]	16b-
 .	.	.	16gg
 8G	8d	4b- 4g	16bb-
 .	.	.	16gg

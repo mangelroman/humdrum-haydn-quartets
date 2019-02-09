@@ -142,19 +142,19 @@
 .	4B	4b	4dd
 .	4G	4dd	4bb
 =23	=23	=23	=23
-[1GG 1G	4f	4b	4gg#
+[1GG [1G	4f	4b	4gg#
 .	4e	4cc	4aa
 .	4e-	4a	4ff#
 .	4d	4b	4gg
 =24	=24	=24	=24
-1GG 1G_	8c	4cc	8ee
+1GG_ 1G_	8c	4cc	8ee
 .	8d	.	8ff#
 .	8e	8e	8gg
 .	8c	8f#	8ee
 .	4B	4g	4dd
 .	4G	4dd	4bb
 =25	=25	=25	=25
-1GG 1G]	4f	4b	4gg#
+1GG] 1G]	4f	4b	4gg#
 .	4e	4cc	4aa
 .	4e-	4a	4ff#
 .	4d	4b	4gg
@@ -730,7 +730,7 @@
 4A	.	.	8ee
 .	.	.	8cc
 =103	=103	=103	=103
-4D	[1f#	1cc 1a]	8ff#
+4D	[1f#	1cc] 1a	8ff#
 .	.	.	8aa
 4d	.	.	8ccc
 .	.	.	8aa
@@ -748,7 +748,7 @@
 4G	.	.	8dd
 .	.	.	8b
 =105	=105	=105	=105
-4C	[1e	1b 1g]	8ee
+4C	[1e	1b] 1g	8ee
 .	.	.	8gg
 4c	.	.	8bb
 .	.	.	8gg
@@ -766,7 +766,7 @@
 4F#	.	.	8cc
 .	.	.	8a
 =107	=107	=107	=107
-4BB	1d#	1a 1f#]	8b
+4BB	1d#	1a] 1f#	8b
 .	.	.	8ff#
 4B	.	.	8aa
 .	.	.	8ff#
@@ -991,15 +991,15 @@
 .	4a	4a	4ccc
 .	4b	4g	4ddd
 =137	=137	=137	=137
-1D_	[1cc	[1A 1f#	2.eee
+1D_	[1cc	[1A [1f#	2.eee
 .	.	.	4ccc
 =138	=138	=138	=138
-1D_	1cc_	1A 1f#_	4aa
+1D_	1cc_	1A_ 1f#_	4aa
 .	.	.	4ff#
 .	.	.	4cc
 .	.	.	4a
 =139	=139	=139	=139
-2D]	2cc]	2A 2f#]	4f#
+2D]	2cc]	2A] 2f#]	4f#
 .	.	.	4d
 4r	2r	2r	4c
 4d	.	.	4r
@@ -1110,19 +1110,19 @@
 .	4B	4b	4dd
 .	4G	4dd	4bb
 =156	=156	=156	=156
-[1GG 1G	4f	4b	4gg#
+[1GG [1G	4f	4b	4gg#
 .	4e	4cc	4aa
 .	4e-	4a	4ff#
 .	4d	4b	4gg
 =157	=157	=157	=157
-1GG 1G_	8c	4cc	8ee
+1GG_ 1G_	8c	4cc	8ee
 .	8d	.	8ff#
 .	8e	8e	8gg
 .	8c	8f#	8ee
 .	4B	4g	4dd
 .	4G	4dd	4bb
 =158	=158	=158	=158
-1GG 1G]	4f	4b	4gg#
+1GG] 1G]	4f	4b	4gg#
 .	4e	4cc	4aa
 .	4e-	4a	4ff#
 .	4d	4b	4gg
