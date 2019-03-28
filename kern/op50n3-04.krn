@@ -2,7 +2,7 @@
 !!!OTL: String Quartet in E-flat Major
 !!!OPS: Opus 50
 !!!ONM: No. 3
-!!!OMD: Finale
+!!!OMD: Finale Presto
 !!!OMV: 4
 !!!SCT: H III:46
 !!!SCA: Thematisch-bibliographisches Werkevererzeichnis (A. van Hoboken)
@@ -19,7 +19,7 @@
 *E-:	*E-:	*E-:	*E-:
 *clefF4	*clefC3	*clefG	*clefG
 *M2/4	*M2/4	*M2/4	*M2/4
-4.r	4.r	4.r	4.r
+*CTpresto	*CTpresto	*CTpresto	*CTpresto
 8r	8r	8r	8B-
 =1	=1	=1	=1
 4E-	8r	8r	4.e-

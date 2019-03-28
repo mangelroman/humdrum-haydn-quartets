@@ -22,6 +22,7 @@
 *k[]	*	*k[]	*	*k[]	*	*k[]	*
 *C:	*	*C:	*	*C:	*	*C:	*
 *M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*
+*CTadagio	*	*CTadagio	*	*CTadagio	*	*CTadagio	*
 ! Adagio	!	! Adagio	!	! Adagio	!	! Adagio	!
 (16.GG'/LL	f	(16.G'/LL	f	(16.G'/LL	f	(16.G'/LL	f
 32GG'/JJk)	.	32G'/JJk)	.	32G'/JJk)	.	32G'/JJk)	.
@@ -706,6 +707,7 @@
 *>C	*	*>C	*	*>C	*	*>C	*
 *k[]	*	*k[]	*	*k[]	*	*k[]	*
 *C:	*	*C:	*	*C:	*	*C:	*
+*CTpresto	*	*CTpresto	*	*CTpresto	*	*CTpresto	*
 ! Presto	!	! Presto	!	! Presto	!	! Presto	!
 4r	.	4r	.	8c'/L	.	8e'/L	mf
 .	.	.	.	8d'/J	.	8f'/J	.
@@ -1035,6 +1037,7 @@
 =122	=122	=122	=122	=122	=122	=122	=122
 4B;\]	.	4g;\]	.	4dd;\]	.	4fff;\]	.
 8r	.	8r	.	8r	.	8r	.
+*CTadagio	*	*CTadagio	*	*CTadagio	*	*CTadagio	*
 ! Adagio	!	! Adagio	!	! Adagio	!	! Adagio	!
 (16.GG'/LL	f	(16.G'/LL	f	(16.G'/LL	f	(16.G'/LL	f
 32GG'/JJk)	.	32G'/JJk)	.	32G'/JJk)	.	32G'/JJk)	.
