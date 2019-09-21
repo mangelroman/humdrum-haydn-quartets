@@ -2,7 +2,7 @@
 !!!OTL: String Quartet in C Major
 !!!OPS: Opus 64
 !!!ONM: No. 1
-!!!OMD: Menuetto: Allegro ma non troppo
+!!!OMD: Menuetto: Allegretto ma non troppo
 !!!OMV: 2
 !!!SCT: H III:65
 !!!SCA: Thematisch-bibliographisches Werkevererzeichnis (A. van Hoboken)
@@ -22,6 +22,7 @@
 *k[]	*	*k[]	*	*k[]	*	*k[]	*
 *C:	*	*C:	*	*C:	*	*C:	*
 *M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*
+*MM198	*	*MM198	*	*MM198	*	*MM198	*
 ! Allegretto ma non troppo	!	! Allegretto ma non troppo	!	! Allegretto ma non troppo	!	! Allegretto ma non troppo	!
 4GG/	f	4r	.	4r	.	4r	.
 =1	=1	=1	=1	=1	=1	=1	=1

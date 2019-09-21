@@ -19,6 +19,7 @@
 *D:	*D:	*D:	*D:
 *clefF4	*clefC3	*clefF	*clefF
 *M4/4	*M4/4	*M4/4	*M4/4
+*MM60	*MM60	*MM60	*MM60
 8DD	8D 8f# 8A	8f# 8A	8dd 8f#
 8F#	4A	8d	8d
 8E	.	8c#	8e
@@ -54,6 +55,7 @@
 .	16G	.	16b
 4.AA	4F#	4A	4d
 .	8G	8c#	8e
+*MM100	*MM100	*MM100	*MM100
 8D	8r	8r	8r
 =5	=5	=5	=5
 2..DD	8r	4.r	2r
